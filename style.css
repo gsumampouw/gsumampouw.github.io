@@ -1,7 +1,12 @@
 
 #about {
     padding-top: 150px;
+    padding-bottom: 50px;
   }
 #projects{
     padding-bottom: 50px;
+}
+
+.card-body{
+  height: 5in;
 }
