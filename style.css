@@ -7,3 +7,6 @@
     padding-bottom: 50px;
 }
 
+.card-text{
+min-height: 6em;
+}
