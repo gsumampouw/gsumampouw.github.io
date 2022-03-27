@@ -6,7 +6,20 @@
 #projects{
     padding-bottom: 50px;
 }
-
+@media only screen and (max-width: 900px){
 .card-text{
-min-height: 6em;
+  height: 500px;
 }
+}
+@media only screen and (max-width: 1000px){
+  .card-text{
+    height: 350px;
+  }
+  }
+
+  @media only screen and (min-width: 1000px){
+    .card-text{
+      height: 250px;
+    }
+    }
+
